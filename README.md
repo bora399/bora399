@@ -2,7 +2,7 @@
 
 **About me**
 
-- 🌱 and i'm a 16 yo highschooler
+- 🌱 i'm a 16 yo highschooler
 
 - 🤖 i'm working on vex v5 systems
 
