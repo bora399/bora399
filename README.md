@@ -1,6 +1,6 @@
 👨‍💻 i'm a developer working on robots and data science.
 
-###About me
+###About me###
 
 🤖 i'm working on vex v5 systems
 💻 i love data science stuff with c++ or python
