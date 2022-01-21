@@ -1,4 +1,6 @@
-### Hi there 👋
+### hi there 👋
+
+[![bora399's GitHub stats](https://github-readme-stats.vercel.app/api?username=bora399)](https://github.com/bora399/github-readme-stats)
 
 <!--
 **bora399/bora399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
