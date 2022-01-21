@@ -8,7 +8,7 @@
 
 - 💻 i love data science stuff with c++ or python
  
-- ❤️ i write some flutter codes in my free times
+- ❤️ i love to write some flutter codes in my spare time
 
 
 
@@ -31,10 +31,4 @@
 </a>
 <a href="https://github.com/bora399/vex-basics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bora399&repo=vex-basics&theme=buefy" />
-</a>
-
-<br />
-
-<a href="https://instagram.com/borasaltik">
-  <img align="right" alt="Bora Saltık | Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
 </a>
