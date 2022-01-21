@@ -1,4 +1,4 @@
-👨‍💻 i'm a developer working on robots and data science.
+# hi there, it's nice to see you!
 
 **About me**
 
