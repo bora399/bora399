@@ -2,10 +2,14 @@
 
 **About me**
 
-🤖 i'm working on vex v5 systems
-💻 i love data science stuff with c++ or python
-❤️ i write some flutter codes in my free times
-🌱 and i'm a 16 yo highschooler
+- 🤖 i'm working on vex v5 systems
+
+- 💻 i love data science stuff with c++ or python
+ 
+- ❤️ i write some flutter codes in my free times
+
+- 🌱 and i'm a 16 yo highschooler
+
 
 **Languages and Tools:**  
 
