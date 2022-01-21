@@ -30,5 +30,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bora399&repo=Fitness-Center&theme=buefy" />
 </a>
 <a href="https://github.com/bora399/vex-basics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bora399&repo=vex-basics&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bora399&repo=vex-basics&theme=buefy"/>
 </a>
