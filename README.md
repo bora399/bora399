@@ -15,8 +15,8 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></code>
-<code><img height="20" src="https://www.python.org/static/community_logos/python-powered-h-50x65.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
 
 
 
