@@ -36,5 +36,5 @@
 <br />
 
 <a href="https://instagram.com/borasaltik">
-  <img align="right" alt="Bora Saltık | Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
+  <img align="right" alt="Bora Saltık | Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
 </a>
