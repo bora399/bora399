@@ -2,18 +2,21 @@
 
 **About me**
 
+- 🌱 and i'm a 16 yo highschooler
+
 - 🤖 i'm working on vex v5 systems
 
 - 💻 i love data science stuff with c++ or python
  
 - ❤️ i write some flutter codes in my free times
 
-- 🌱 and i'm a 16 yo highschooler
+
 
 
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></code>
+<code><img height="20" src="https://www.python.org/static/community_logos/python-powered-h-50x65.png"></code>
 
 
 
