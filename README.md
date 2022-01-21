@@ -32,3 +32,10 @@
 <a href="https://github.com/bora399/vex-basics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bora399&repo=vex-basics&theme=buefy" />
 </a>
+
+<br />
+<br />
+
+<a href="https://instagram.com/borasaltik">
+  <img align="right" alt="Bora Saltık | Instagram" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
+</a>
