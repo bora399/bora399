@@ -8,10 +8,10 @@
 
 ## <p align="center">⚔️ Languages ⚔️</p>
 <p align="center">
-  <img height="50" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" title="C++">
-  <img height="50"  src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" title="Python">
-  <img height="50"  src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" alt="Flutter" title="Flutter">
-  <img height="50"  src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" title="Dart">
+  <img height="70" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" title="C++">
+  <img height="70"  src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" title="Python">
+  <img height="70"  src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" alt="Flutter" title="Flutter">
+  <img height="70"  src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" title="Dart">
 </p>
 
 <p align="center">
