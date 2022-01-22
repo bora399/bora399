@@ -1,4 +1,19 @@
-# hi there, it's nice to see you!
+# <p align="center">Hi, I'm Olivér! 👋 </p>
+<p align="center">
+  <a href="https://github.com/0l1v3rr" target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=0l1v3rr" alt="visitors" title="visitors"></a>
+  <a href="https://github.com/0l1v3rr?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/0l1v3rr?logo=GitHub&logoColor=white" alt="GitHub Followers" title="GitHub Followers"></a>
+</p>
+
+<hr>
+
+## <p align="center">⚔️ Languages ⚔️</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" title="C++">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" title="Python">
+  <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" alt="Flutter" title="Flutter">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" title="Dart">
+</p>
+
 
 **About me**
 
