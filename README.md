@@ -27,3 +27,12 @@
   &nbsp;&nbsp;&nbsp;
   <img width="410px" src="https://github-readme-streak-stats.herokuapp.com/?user=bora399&background=0D1117&border=30363d&stroke=30363d&dates=8b949e&sideNums=59A5FA&sideLabels=59A5FA&currStreakNum=C9D1D2&ring=EF8065&fire=EF8065&currStreakLabel=EF8065" alt="GitHub Streak" title="GitHub Streak">
 </p>
+
+## <p align="center">🤖 Top Repositories 🤖</p>
+
+<a href="https://github.com/bora399/Fitness-Center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bora399&repo=Fitness-Center&theme=buefy" />
+</a>
+<a href="https://github.com/bora399/vex-basics">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bora399&repo=vex-basics&theme=buefy"/>
+</a>
