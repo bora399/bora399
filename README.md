@@ -34,7 +34,7 @@
 
 <p align="center">
 <a href="https://github.com/bora399/Fitness-Center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bora399&repo=Fitness-Center&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bora399&repo=your_daily_movie&theme=buefy" />
 </a>
 <a href="https://github.com/bora399/vex-basics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bora399&repo=vex-basics&theme=buefy"/>
