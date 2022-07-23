@@ -33,7 +33,7 @@
 ## <p align="center">🤖 Top Repositories 🤖</p>
 
 <p align="center">
-<a href="https://github.com/bora399/Fitness-Center">
+<a href="https://github.com/bora399/your_daily_movie">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bora399&repo=your_daily_movie&theme=buefy" />
 </a>
 <a href="https://github.com/bora399/vex-basics">
