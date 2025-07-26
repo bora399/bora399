@@ -1,6 +1,6 @@
 # <p align="center">Hi, I'm Bora! 👋 </p>
-<hr>
-## <p align="center">⚔️ Languages and Frameworks ⚔️</p>
+
+# <p align="center">⚔️ Languages And Frameworks ⚔️</p>
 <p align="center">
   <img height="70" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" title="C++">
   <img height="70"  src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" title="Python">
@@ -16,6 +16,8 @@
 
 <hr>
 
+## <p align="center">🤖 Top Repositories 🤖</p>
+## <p align="center">🤖 Top Repositories 🤖</p>
 ## <p align="center">🤖 Top Repositories 🤖</p>
 
 <p align="center">
