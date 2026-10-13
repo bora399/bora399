@@ -22,7 +22,6 @@
 - **Backend Architecture:** Clean Architecture, Domain-Driven Design (DDD) principles, and layered patterns.
 - **API & Systems:** High-performance RESTful API design, secure JWT authentication/authorization, and data integrity.
 - **Client-Side Delivery:** Delivering end-to-end products across Next.js, React, and Flutter clients.
-- 
 ---
 
 ### 🚀 Featured Project: Launchify Platform
