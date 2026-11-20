@@ -17,7 +17,7 @@ Lately, I've been focusing on backend systems engineering—caching, concurrency
 ### Background
 
 - **AnalyzeLeague (Backend Developer):** Built the .NET 8 backend, REST APIs, PostgreSQL persistence, Redis caching, RabbitMQ messaging, and Docker setup for a football prediction and social platform.
-- **TFL Robotics (Team Leader & Lead Programmer):** Led the team and wrote C++ code for autonomous and driver-controlled robots. Two-time national VEX Robotics champion and World Championship competitor (Texas, USA).
+- **TFL Robotics (Team Leader & Lead Programmer):** Led the team and wrote C++ code for autonomous and driver-controlled robots. National VEX Robotics champion and World Championship competitor (Texas, USA).
 - **Mobile & Frontend:** Earlier experience building cross-platform apps and game interfaces with Flutter, Firebase, and frontend tooling (YEP, CryptolX).
 
 ---
